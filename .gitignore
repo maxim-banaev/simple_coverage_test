@@ -1,0 +1,6 @@
+# Project exclude paths
+/cmake-build-debug/
+/cmake-build-debug-coverage---coverage/
+/cmake-build-debug-coverage--fprofile-instr-generate--fcoverage-mapping/
+/cmake-build-release-gcc-10/
+/cmake-build-release-gcc-10-coverage---coverage/
